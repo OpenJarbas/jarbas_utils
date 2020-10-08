@@ -1,5 +1,11 @@
 # Jarbas - utils
 
+
+Development moved into [OpenVoiceOS/ovos_utils](https://github.com/OpenVoiceOS/ovos_utils)
+
+
+## Archived for historical purposes
+
 collection of simple utilities for use across the mycroft ecosystem
 
 - [Jarbas - utils](#jarbas---utils)
